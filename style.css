@@ -1,0 +1,39 @@
+body{
+  background: url(wood.jpeg) no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Anton', sans-serif;
+}
+
+.rowHeight {
+  height: 500px;
+}
+
+h1 {
+  color: #2d2d2d;
+  font-size: 4em;
+
+}
+
+.bg {
+  background-color: #c1c1c1;
+  opacity: 0.8;
+}
+img {
+  width: 100%;
+}
+
+.footer {
+  background-color: #cceac9;
+
+  position: fixed;
+  opacity: 0.6;
+  bottom: 0;
+  left:0;
+ z-index: 2;
+
+}
+p {
+  font-size: 18px;
+  padding: 10px;
+
+}
